@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+playwright
+matplotlib
+crawl4ai
+pandas
